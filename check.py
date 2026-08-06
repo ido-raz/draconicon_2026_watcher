@@ -31,8 +31,7 @@ EVENT_URLS = [
     "https://dragoncon.co.il/events/350",
 ]
 
-# MARKER = "הרישום המוקדם לכנס טרם התחיל"
-MARKER = "סתם בדיקה"
+MARKER = "הרישום המוקדם לכנס טרם התחיל"
 STATE_FILE = "state.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; DragonconWatcher/1.0)"}
 TIMEOUT_SECONDS = 20
